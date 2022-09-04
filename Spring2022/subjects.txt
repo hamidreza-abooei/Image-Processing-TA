@@ -1,0 +1,21 @@
+segmentation
+intensity
+similarity
+Discontinuity
+
+automatic global thresholding
+edge detection
+canny
+hough
+
+
+registration
+Feature based
+Intensity based
+Match Similarity
+Remapping 
+Mutual information as similarity measure
+					joint histogram 
+
+		3 point registration
+
